@@ -1,6 +1,6 @@
 import random
 
-print('paokara')
+print('aekara')
 
 a = 1
 if a == 1:
